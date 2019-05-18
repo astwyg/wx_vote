@@ -2,3 +2,5 @@
 /build
 __pycache__
 *.pyc
+/.idea
+/src/hymuseum/get_tickect.py
